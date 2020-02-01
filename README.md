@@ -1,2 +1,2 @@
-# iOS-Development
-iOS Mobile App
+# Mobile-App-Development
+Android and iOS Mobile App using React Native
