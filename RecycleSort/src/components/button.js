@@ -1,9 +1,8 @@
-import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { Component } from "react";
+import { Button } from "react-native-elements";
 
-export default class Button extends Component {
-  'TODO: Create reusable button component';
-  render() {
-    return <div> button </div>;
-  }
-}
+const button = props => {
+  return <Button title={props.title} onPress={props.onPress}></Button>;
+};
+
+export default button;
