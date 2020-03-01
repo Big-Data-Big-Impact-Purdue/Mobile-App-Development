@@ -1,8 +1,12 @@
-import React, { Component } from "react";
-import { Button } from "react-native-elements";
+import React, { Component } from 'react';
+import { Button } from 'react-native-elements';
 
-const button = props => {
-  return <Button title={props.title} onPress={props.onPress}></Button>;
+export const PicButton = ({ title, onPress }) => {
+  return (
+    <Button
+      title={title}
+      buttonStyle={{ width: 150, height: 100 }}
+      onPress={onPress}
+    />
+  );
 };
-
-export default button;
