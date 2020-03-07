@@ -1,0 +1,15 @@
+{
+    "label": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-recyclesort-label-153153-authRole",
+            "UnauthRoleArn": "arn:aws:iam::678764701778:role/amplify-recyclesort-label-153153-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::678764701778:role/amplify-recyclesort-label-153153-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-recyclesort-label-153153-deployment",
+            "UnauthRoleName": "amplify-recyclesort-label-153153-unauthRole",
+            "StackName": "amplify-recyclesort-label-153153",
+            "StackId": "arn:aws:cloudformation:us-east-1:678764701778:stack/amplify-recyclesort-label-153153/ba8ba2e0-60b2-11ea-9436-0e1b8dfea4f7",
+            "AmplifyAppId": "d1ei94sceiuvg7"
+        }
+    }
+}
